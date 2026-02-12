@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic
+shapely
+geojson
+loguru
+pytest
+pydantic
+aiofiles
+uvicorn
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SocketIO==5.3.6
+eventlet==0.33.3
+werkzeug==3.0.1
